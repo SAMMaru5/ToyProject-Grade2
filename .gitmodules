@@ -1,0 +1,3 @@
+[submodule "BeautyGAN"]
+	path = BeautyGAN
+	url = https://github.com/Lee-Jeong-In/BeautyGAN.git
